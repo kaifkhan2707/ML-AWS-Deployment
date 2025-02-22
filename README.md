@@ -34,4 +34,18 @@
    ![CI Pipeline](/images/CI.PNG)
    ![CD Pipeline](/images/CD.PNG)
 
+3. **Monitoring & Alerting**
+    - Cloudwatch
+   ![Cloudwatch](/images/cloudwatch.PNG)
+
+4. **Model Training and Deployment**
+   - Train the model using Jupyter notebooks or SageMaker.
+     
+     **Containerization**
+   - Build a Docker image with Flask to serve predictions.
+   - Include environment variables for model paths and secrets.
+  
+5. **Rollback Strategy**
+   - Use ECR image tags (e.g., v1.0.0) to revert to previous versions.
+
     
