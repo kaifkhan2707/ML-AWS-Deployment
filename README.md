@@ -28,4 +28,8 @@
      -  Write logs to CloudWatch (logs:PutLogEvents).
      -  Retrieve secrets from Secrets Manager (secretsmanager:GetSecretValue).
 
+2. **CI/CD Pipeline**
+     - Github Actions
+   ![CI/CD Pipeline](/images/ML_CD_CD.PNG)
+
     
