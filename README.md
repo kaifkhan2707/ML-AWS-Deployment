@@ -30,6 +30,6 @@
 
 2. **CI/CD Pipeline**
      - Github Actions
-   ![CI/CD Pipeline](/images/ML_CD_CD.PNG)
+   ![CI/CD Pipeline](/images/ML_CI_CD.PNG)
 
     
