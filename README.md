@@ -1,4 +1,4 @@
 ## Machine Learning Model Deployment on AWS
 ## Architecture
 
-![Architecture Diagram](/imgages/architecture.PNG)
+![Architecture Diagram](/imgages/Architecture.PNG)
